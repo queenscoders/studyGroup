@@ -1,5 +1,5 @@
 ---
-title: R: Introduction and randomForest
+title: R - Introduction and randomForest
 text: This will be a short introduction to R and RStudio, with a look at using the randomForest package for feature selection.
 location: NMB 207
 link: https://github.com/queenscoders/Events/issues/1
