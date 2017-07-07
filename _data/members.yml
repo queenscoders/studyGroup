@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Jon Pipitone
+  affiliation: Queen's University, Medicine
+  github: pipitone 
   interests:
-    - Programming
-    - Open Science
+    - Python
+    - R
+    - Linux
